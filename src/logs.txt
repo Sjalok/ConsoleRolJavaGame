@@ -1,0 +1,198 @@
+tambores y trompetas suenan al unisono, y un hombre de pinta ostentosa presenta a... Sjalok
+Y su contrincante sera... Lord Malvo
+Quien saldra victorioso y decidira el destino de Almoria??
+Empieza la ronda numero 1
+Las cartas que se van a enfrentar son: 
+Del jugador Sjalok ha salido elegida la carta numero 2
+Los datos del personaje...
+nombre: Thorne
+raza: Humano
+nivel: 1
+--------------------------
+
+
+
+Y de tu contrincante Lord Malvo ha salido elegida la carta numero 1
+Los datos de la carta enemiga.....
+nombre: Durin
+raza: Enano
+nivel: 1
+--------------------------
+
+
+El sorteo determino que arranca atacando Lord Malvo
+Thorne gracias a su implacable defensa y reflejos logro bloquear el ataque de Durin, por lo cual no hay daño alguno!
+Thorne ataca a Durin, quitandole 13 de salud.Durin queda con 87 de vida.
+Thorne ataca a Durin, quitandole 3 de salud.Durin queda con 84 de vida.
+Thorne gracias a su implacable defensa y reflejos logro bloquear el ataque de Durin, por lo cual no hay daño alguno!
+Thorne gracias a su implacable defensa y reflejos logro bloquear el ataque de Durin, por lo cual no hay daño alguno!
+Thorne ataca a Durin, quitandole 2 de salud.Durin queda con 82 de vida.
+Thorne ataca a Durin, quitandole 15 de salud.Durin queda con 67 de vida.
+Thorne gracias a su implacable defensa y reflejos logro bloquear el ataque de Durin, por lo cual no hay daño alguno!
+Thorne gracias a su implacable defensa y reflejos logro bloquear el ataque de Durin, por lo cual no hay daño alguno!
+Thorne ataca a Durin, quitandole 8 de salud.Durin queda con 59 de vida.
+Thorne ataca a Durin, asestandole un poderoso golpe critico, quitandole 1 de salud.Durin queda con 58 de vida.
+Thorne gracias a su implacable defensa y reflejos logro bloquear el ataque de Durin, por lo cual no hay daño alguno!
+Thorne gracias a su implacable defensa y reflejos logro bloquear el ataque de Durin, por lo cual no hay daño alguno!
+Durin gracias a su implacable defensa y reflejos logro bloquear el ataque de Thorne, por lo cual no hay daño alguno!
+Se terminaron la cantidad de turnos! se decidio ejecutar a Durin ya que tiene menor cantidad de vida! asi que Thorne se queda con la victoria!
+no hay recompensa por este tipo de victoria!
+-----------------------------------
+
+Empieza la ronda numero 2
+Las cartas que se van a enfrentar son: 
+Del jugador Sjalok ha salido elegida la carta numero 3
+Los datos del personaje...
+nombre: Yertse
+raza: Elfo
+nivel: 1
+--------------------------
+
+
+
+Y de tu contrincante Lord Malvo ha salido elegida la carta numero 3
+Los datos de la carta enemiga.....
+nombre: Earendil
+raza: Elfo
+nivel: 1
+--------------------------
+
+
+El sorteo determino que arranca atacando Lord Malvo
+Yertse gracias a su implacable defensa y reflejos logro bloquear el ataque de Earendil, por lo cual no hay daño alguno!
+Yertse ataca a Earendil, quitandole 12 de salud.Earendil queda con 88 de vida.
+Yertse ataca a Earendil, quitandole 15 de salud.Earendil queda con 73 de vida.
+Yertse gracias a su implacable defensa y reflejos logro bloquear el ataque de Earendil, por lo cual no hay daño alguno!
+Yertse gracias a su implacable defensa y reflejos logro bloquear el ataque de Earendil, por lo cual no hay daño alguno!
+Yertse ataca a Earendil, quitandole 11 de salud.Earendil queda con 62 de vida.
+Yertse ataca a Earendil, quitandole 9 de salud.Earendil queda con 53 de vida.
+Yertse gracias a su implacable defensa y reflejos logro bloquear el ataque de Earendil, por lo cual no hay daño alguno!
+Yertse gracias a su implacable defensa y reflejos logro bloquear el ataque de Earendil, por lo cual no hay daño alguno!
+Yertse ataca a Earendil, quitandole 8 de salud.Earendil queda con 45 de vida.
+Yertse ataca a Earendil, quitandole 6 de salud.Earendil queda con 39 de vida.
+Earendil ataca a Yertse, quitandole 1 de salud.Yertse queda con 99 de vida.
+Earendil ataca a Yertse, quitandole 1 de salud.Yertse queda con 98 de vida.
+Yertse ataca a Earendil, quitandole 10 de salud.Earendil queda con 29 de vida.
+Se terminaron la cantidad de turnos! se decidio ejecutar a Earendil ya que tiene menor cantidad de vida! asi que Yertse se queda con la victoria!
+no hay recompensa por este tipo de victoria!
+-----------------------------------
+
+Empieza la ronda numero 3
+Las cartas que se van a enfrentar son: 
+Del jugador Sjalok ha salido elegida la carta numero 3
+Los datos del personaje...
+nombre: Yertse
+raza: Elfo
+nivel: 1
+--------------------------
+
+
+
+Y de tu contrincante Lord Malvo ha salido elegida la carta numero 2
+Los datos de la carta enemiga.....
+nombre: Morgoth
+raza: Orco
+nivel: 1
+--------------------------
+
+
+El sorteo determino que arranca atacando Sjalok
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Yertse, por lo cual no hay daño alguno!
+Morgoth ataca a Yertse, quitandole 1 de salud.Yertse queda con 97 de vida.
+Morgoth ataca a Yertse, quitandole 1 de salud.Yertse queda con 96 de vida.
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Yertse, por lo cual no hay daño alguno!
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Yertse, por lo cual no hay daño alguno!
+Morgoth ataca a Yertse, quitandole 1 de salud.Yertse queda con 95 de vida.
+Morgoth ataca a Yertse, quitandole 2 de salud.Yertse queda con 93 de vida.
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Yertse, por lo cual no hay daño alguno!
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Yertse, por lo cual no hay daño alguno!
+Yertse gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Yertse gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Yertse ataca a Morgoth, quitandole 3 de salud.Morgoth queda con 97 de vida.
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Yertse, por lo cual no hay daño alguno!
+Morgoth ataca a Yertse, quitandole 1 de salud.Yertse queda con 92 de vida.
+Se terminaron la cantidad de turnos! se decidio ejecutar a Yertse ya que tiene menor cantidad de vida! asi que Morgoth se queda con la victoria!
+no hay recompensa por este tipo de victoria!
+-----------------------------------
+
+Empieza la ronda numero 4
+Las cartas que se van a enfrentar son: 
+Del jugador Sjalok ha salido elegida la carta numero 1
+Los datos del personaje...
+nombre: Leofric
+raza: Humano
+nivel: 1
+--------------------------
+
+
+
+Y de tu contrincante Lord Malvo ha salido elegida la carta numero 2
+Los datos de la carta enemiga.....
+nombre: Morgoth
+raza: Orco
+nivel: 1
+--------------------------
+
+
+El sorteo determino que arranca atacando Lord Malvo
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Leofric, por lo cual no hay daño alguno!
+Leofric gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Leofric gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Leofric ataca a Morgoth, quitandole 8 de salud.Morgoth queda con 89 de vida.
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Leofric, por lo cual no hay daño alguno!
+Leofric gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Leofric gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Leofric ataca a Morgoth, quitandole 8 de salud.Morgoth queda con 81 de vida.
+Morgoth gracias a su implacable defensa y reflejos logro bloquear el ataque de Leofric, por lo cual no hay daño alguno!
+Leofric gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Leofric gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Leofric ataca a Morgoth, quitandole 10 de salud.Morgoth queda con 71 de vida.
+Leofric ataca a Morgoth, quitandole 8 de salud.Morgoth queda con 63 de vida.
+Leofric gracias a su implacable defensa y reflejos logro bloquear el ataque de Morgoth, por lo cual no hay daño alguno!
+Se terminaron la cantidad de turnos! se decidio ejecutar a Morgoth ya que tiene menor cantidad de vida! asi que Leofric se queda con la victoria!
+no hay recompensa por este tipo de victoria!
+-----------------------------------
+
+Oh valiente Sjalok, gran defensor de Almoria
+Has derrotado al temido comandante electo por Sulfurus
+Forjando así un sendero de gloria y esperanza.
+
+Los heraldos proclaman tu hazaña
+y las campanas repican en tu honor.
+En los salones y tabernas,
+Los trovadores entonan canciones de tu victoria,
+siempre acompañados por los instrumentos de los bardos.
+
+Que tu nombre sea grabado en las crónicas,
+como el héroe que trajo paz a nuestro reino.
+Que resuene tu fama por todas las tierras de Almoria!
+
+------------------------------
+
+Los guerreros/heroes que quedaron vivos: 
+
+nombre: Leofric
+raza: Humano
+nivel: 1
+--------------------------
+nombre: Thorne
+raza: Humano
+nivel: 1
+--------------------------
+
+
+Los honorificos guerreros que perecieron en la dura batalla: 
+
+nombre: Nori
+raza: Enano
+nivel: 1
+--------------------------
+nombre: Torin
+raza: Humano
+nivel: 1
+--------------------------
+nombre: Yertse
+raza: Elfo
+nivel: 1
+--------------------------
+

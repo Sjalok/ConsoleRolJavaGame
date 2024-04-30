@@ -1,15 +1,24 @@
 package interfaces;
 
+import clases.Carta;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
 public interface Juego {
-    public void cartasAlAzar ();
+
+    public void preJuego () throws IOException;
+
+    public void registro();
+    public void cartasAlAzar (ArrayList<Integer> numeros);
+
+    public void crearEnemigo (ArrayList<Integer> numeros);
 
     public void crearCartas ();
 
-    public void ordenarCartas ();
+    public boolean jugarTurnos () throws IOException;
 
-    public void jugarTurno (Carta carta1, Carta carta2);
+    public Carta procesoCreacion (int numero, boolean azar);
 
-    public void mensajeWin ();
-
-    public void mensajeLoose ();
+    public int checkStats(int stat);
 }
